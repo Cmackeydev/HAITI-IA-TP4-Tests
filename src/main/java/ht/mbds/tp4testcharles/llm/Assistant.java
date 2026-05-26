@@ -1,4 +1,4 @@
-package ht.mbds.llm;
+package ht.mbds.tp4testcharles.llm;
 
 public interface Assistant {
 

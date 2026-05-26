@@ -53,13 +53,18 @@
       <version>1.12.1</version>
     </dependency> 
 
- 
+    <!-- Parseur PDF Apache Tika -->
+    <dependency>
+      <groupId>dev.langchain4j</groupId>
+      <artifactId>langchain4j-document-parser-apache-tika</artifactId>
+      <version>1.12.1-beta21</version>
+    </dependency>
 
-  <dependency>
+    <dependency>
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
       <version>2.13.1</version>
-  </dependency>
+    </dependency>
 
   </dependencies>
 
